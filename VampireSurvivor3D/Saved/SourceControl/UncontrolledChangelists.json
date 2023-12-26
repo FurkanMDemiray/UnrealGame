@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine Projects/UnrealGame/VampireSurvivor3D/Content/Levels/NewMap.umap",
+				"D:/Unreal Engine Projects/UnrealGame/VampireSurvivor3D/Content/TopDown/Input/IMC_Default.uasset",
+				"D:/Unreal Engine Projects/UnrealGame/VampireSurvivor3D/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+			]
+		}
+	]
+}
